@@ -2,6 +2,6 @@
   "api_base_url": "https://the-velum.online/api/v1",
   "min_app_version": "1.0.0",
   "maintenance": false,
-  "latest_version": "1.0.2",
-  "apk_url": "https://github.com/duckduck399/reimagined-octo-carnival/releases/download/v1.0.2/velum.apk"
+  "latest_version": "1.0.3",
+  "apk_url": "https://github.com/duckduck399/reimagined-octo-carnival/releases/download/v1.0.3/velum.apk"
 }
