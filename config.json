@@ -1,0 +1,7 @@
+{
+  "api_base_url": "https://the-velum.online/api/v1",
+  "min_app_version": "1.0.0",
+  "maintenance": false,
+  "latest_version": "1.0.2",
+  "apk_url": "https://cdn.the-velum.online/app-release.apk"
+}
